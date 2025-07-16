@@ -1,4 +1,4 @@
-My First Frontend Website
+My First Frontend Website (practice project)
 
 This is my very first frontend project — a simple, static, and non-responsive website built using only HTML5 and CSS3. It helped me understand the fundamentals of web structure, layout, and basic styling.
 
